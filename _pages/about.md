@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zhe PENG, a graduate student from [the School of Trafﬁc and Transportation Engineering](https://stte.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/). And I get my bachelor's degree from [the School of Transportation an Logistics](https://ctt.swjtu.edu.cn/), [Southwest Jiaotong University](https://www.swjtu.edu.cn/). 
+I'm Zhe PENG, a graduate student from [the School of Trafﬁc and Transportation Engineering](https://stte.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/). And I get my bachelor's degree from [the School of Transportation and Logistics](https://ctt.swjtu.edu.cn/), [Southwest Jiaotong University](https://www.swjtu.edu.cn/). 
 
-I am very fortunate to be advised by [Prof. Guohua WU](https://faculty.csu.edu.cn/guohuawu/zh_CN/index.htm#:~:text=%E4%BC%8D%E5%9B%BD%E5%8D%8E%EF%BC%8C%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%87%AA%E5%8A%A8) from [the School of Automation](https://soa.csu.edu.cn/), Central South University.
+I am very fortunate to be advised by [Prof. Guohua WU](https://faculty.csu.edu.cn/guohuawu/zh_CN/) from [the School of Automation](https://soa.csu.edu.cn/), Central South University.
 
 My research interest includes **multi-agent reinforcement learning**, UAV control and simulation. 
 
