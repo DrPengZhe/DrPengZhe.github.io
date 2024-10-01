@@ -21,7 +21,7 @@ repository               : "DrPengZhe/DrPengZhe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal photo pengzhe.png"
   name             : "Zhe PENG"
   pronouns         : # example: "she/her"  
   bio              : "Read a good book, that is, and many noble people talk"
